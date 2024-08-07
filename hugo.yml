@@ -29,7 +29,7 @@ params:
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: true
@@ -56,7 +56,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: ""
+    Title: Posts
     Content: 
 
   socialIcons:
@@ -64,8 +64,8 @@ params:
     #   url: "https://x.com/"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com"
-    # - name: github
-    #   url: "https://github.com/"
+    - name: github
+      url: "https://github.com/unifuu"
 
   cover:
     hidden: true # hide everywhere but not in structured data
