@@ -26,5 +26,4 @@ tags: ['Concept', '2K24']
 # Concept
 톱 2
 기원
-a little toxic
 ```
