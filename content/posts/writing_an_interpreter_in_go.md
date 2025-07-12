@@ -1,10 +1,10 @@
 ---
-title: July 10, 2K25
+title: Writing An Interpreter In Go
 date: 2025-07-10
 tags: [interpreter]
 ---
 
-## Interpreter
+## Chapter 1
 
 ### Lexical Analysis
 
